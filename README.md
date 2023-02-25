@@ -1,4 +1,4 @@
-ISS projekt 2023 
+### ISS projekt 2023 
 
 ### Popis 
 - V první části proběhne načtení vstupního zvuku, jeho rozdělení na jednotlivé náhrávky, které jsou dále ořezány o úseky s nestabilním signálem 
